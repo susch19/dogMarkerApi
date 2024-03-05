@@ -1,0 +1,7 @@
+# Fast Api
+fastapi==0.110.0
+
+# Database
+SQLAlchemy==2.0.28
+alembic==1.13.1
+psycopg==3.1.18
